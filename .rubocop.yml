@@ -1,0 +1,10 @@
+AllCops:
+  Exclude:
+    - 'poker_hand_evaluator_part_1_test.rb'
+    - 'poker_hand_evaluator_part_1b_test.rb'
+
+Metrics/BlockLength:
+  Max: 32
+
+Style/Documentation:
+  Enabled: false
